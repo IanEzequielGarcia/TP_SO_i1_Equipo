@@ -1,3 +1,6 @@
 EzequielPazos
 KevinAguilera
 GarciaIan
+
+a. Si, pero aparecen en otra branch
+b. Si, no tuvimos problemas con eso de momento
