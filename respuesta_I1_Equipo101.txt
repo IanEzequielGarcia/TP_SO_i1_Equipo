@@ -4,3 +4,5 @@ GarciaIan
 
 a. Si, pero aparecen en otra branch
 b. Si, no tuvimos problemas con eso de momento
+c. Si, Github muestra en el inicio del repositorio las últimas modificaciones en la branch que se trabajó.
+d. Nos fuimos comunicando por Whatsapp.
